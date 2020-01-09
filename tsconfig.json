@@ -24,6 +24,12 @@
       ],
       "my-lib/*": [
         "dist/my-lib/*"
+      ],
+      "canvas-stroke": [
+        "dist/canvas-stroke"
+      ],
+      "canvas-stroke/*": [
+        "dist/canvas-stroke/*"
       ]
     }
   },

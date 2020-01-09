@@ -1,0 +1,29 @@
+{
+  "name": "ngx-canvas-stroke",
+  "description": "A lightweight module for drawing on canvas",
+  "author": {
+    "email": "kagajr.hm@gmail.com",
+    "name": "kagajr.hm",
+    "url": "http://kagajr.com"
+  },
+  "repository": {
+    "url": "https://github.com/kagajr/canvas-stroke",
+    "type": "git"
+  },
+  "bugs": {
+    "url": "https://github.com/kagajr/canvas-stroke/issues"
+  },
+  "license": "MIT",
+  "keywords": [
+    "angular",
+    "angular 8",
+    "canvas",
+    "drawing",
+    "polygon"
+  ],
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^8.2.14",
+    "@angular/core": "^8.2.14"
+  }
+}
